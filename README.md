@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=32bites&label=Profile%20views&color=0e75b6&style=flat" alt="32bites" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=32bites" alt="32bites" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=32bites&theme=onedark" alt="32bites" /></a> </p>
 
 - 🔭 I’m currently working on **A 🦇💩 Programming Language**
 
